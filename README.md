@@ -1,6 +1,6 @@
 <h1>Curso Laravel</h1>
 
-<h2>Objetivo: Construir um site de venda de cursos</h2>
+#Objetivo: Construir um site de venda de cursos
 
 Instalar e configurar um projeto com Laravel
 Trabalhar com Rotas do Laravel
